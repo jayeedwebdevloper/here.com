@@ -1,0 +1,47 @@
+@media only screen and (max-width: 1200px) {
+    .mt-3-5 {
+        margin-top: -7% !important;
+    }
+
+    .mt-5-3 {
+        margin-top: 18% !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .logo {
+        max-width: 100%;
+    }
+
+    #loader {
+        background-size: 27%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .responsive-mine {
+        padding: 4% 7% !important;
+        margin: 0 !important;
+    }
+
+    .banner h1 {
+        font-size: 30px;
+    }
+
+    .banner p {
+        font-size: 20px;
+    }
+
+    .mt-5-3 {
+        margin-top: 0 !important;
+    }
+
+    .logo {
+        width: 80%;
+    }
+
+    #scroll-top svg {
+        width: 35px;
+        height: 35px;
+    }
+}
